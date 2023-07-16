@@ -1,6 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
+
 **rinande15/rinande15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya Muhammad Rinande Ansutia.<br>
+Saya seorang mahasiswa di Politeknik Pertanian Negeri Payakumbuh. Saya mengambil program studi D4 Teknologi Rekayasa Komputer.<br>
+Jika kamu tertarik untuk berkenalan denganku, silahkan <a href="https://www.linkedin.com/in/muhammad-rinande-ansutia/">ikuti akun LinkedInku</a>.
