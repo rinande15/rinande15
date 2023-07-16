@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya <b>Muhammad Rinande Ansutia</b>.<br>
 Saya seorang mahasiswa di <b>Politeknik Pertanian Negeri Payakumbuh</b>. Saya mengambil program studi <b>D4 Teknologi Rekayasa Komputer</b>.<br>
-Jika kamu tertarik untuk berkenalan denganku, silahkan <a href="https://www.linkedin.com/in/muhammad-rinande-ansutia/">ikuti akun LinkedInku</a>.
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun <a href="https://www.linkedin.com/in/muhammad-rinande-ansutia/">LinkedIn</a>ku.
