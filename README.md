@@ -4,12 +4,14 @@ Perkenalkan nama saya **Muhammad Rinande Ansutia**.\
 Saya seorang mahasiswa di **Politeknik Pertanian Negeri Payakumbuh**. Saya mengambil program studi **D4 Teknologi Rekayasa Komputer**.\
 Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/muhammad-rinande-ansutia/) ku ya.
 
+<!--
 <p align="left">
 <a href="https://github.com/rinande15">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rinande15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rinande15&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rinande15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rinande15&layout=compact&langs_count=5&theme=tokyonight"/>
 </a>
 </p>
+-->
 
 <!--
 
