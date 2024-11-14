@@ -12,6 +12,19 @@ Perkenalkan nama saya Muhammad Rinande Ansutia.<br>Saya seorang mahasiswa di Pol
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rinande15&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rinande15&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rinande15&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" style="margin-right: 10px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinande15&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinande15&theme=dracula&hide_border=true" style="margin-left: 10px;" />
+</div>
+<p align="center">
+  <a href="https://github.com/rinande15">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinande15&theme=dracula" alt="M. Ghozi's GitHub Contribution"/>
+  </a>
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=rinande15&icon=10&color=13)](https://visitcount.itsvg.in)
 
