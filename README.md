@@ -4,7 +4,7 @@ Perkenalkan nama saya Muhammad Rinande Ansutia.<br>Saya seorang mahasiswa di Pol
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rinande__) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-rinande-ansutia) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-rinande-ansutia) 
 [![Email](https://img.shields.io/badge/Gmail-%23E4405F.svg?Gmail&logoColor=white)](mailto:rinandeansutia1@gmail.com)
 
 # 💻 Tech Stack:
