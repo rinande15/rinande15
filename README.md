@@ -28,6 +28,7 @@ Perkenalkan nama saya Muhammad Rinande Ansutia.<br>Saya seorang mahasiswa di Pol
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
         <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino"/>
         <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi" alt="Raspberry Pi"/>
+        <img src="https://img.shields.io/badge/MakerBot-%23000000.svg?style=flat&logo=makerbot&logoColor=white" alt="MakerBot"/>
     </p>
 
 # 📊 GitHub Stats:
