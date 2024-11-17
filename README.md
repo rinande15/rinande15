@@ -1,5 +1,5 @@
 # 💫 About Me:
-Perkenalkan nama saya Muhammad Rinande Ansutia.<br>Saya seorang mahasiswa di Politeknik Pertanian Negeri Payakumbuh. Saya mengambil program studi D4 Teknologi Rekayasa Komputer.<br>
+Perkenalkan nama saya Muhammad Rinande Ansutia.<br>Saya seorang mahasiswa Semester 7 di Politeknik Pertanian Negeri Payakumbuh. Saya mengambil program studi D4 Teknologi Rekayasa Komputer.<br>
 
 
 ## 🌐 Socials:
