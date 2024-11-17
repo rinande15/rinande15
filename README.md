@@ -39,11 +39,6 @@ Perkenalkan nama saya Muhammad Rinande Ansutia.<br>Saya seorang mahasiswa Semest
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinande15&theme=aura_dark&hide_border=false"/>
   </div>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=rinande15&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
-        <!-- GitHub Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinande15&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats"><br/>
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinande15&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 
 
 ---
