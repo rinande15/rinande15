@@ -36,7 +36,7 @@ Perkenalkan nama saya Muhammad Rinande Ansutia.<br>Saya seorang mahasiswa Semest
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=rinande15&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" style="margin-right: 10px;" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinande15&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinande15&theme=aura_dark&hide_border=false"/>
+<!--           <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinande15&theme=aura_dark&hide_border=false"/> -->
   </div>
 </div>
 
